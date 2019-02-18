@@ -1,0 +1,48 @@
+body {
+    background-image: url("../images/bg.jpg");
+    background-size: 100%;
+    text-align: center;
+}
+header {
+    font-family: 'Titan One', cursive;
+    color: rgb(255, 227, 19);
+    font-size: 60px;
+    padding-bottom: 10px;
+}
+.container {
+    background-color: rgb(110, 48, 142);
+    padding: 30px;
+    color: black;
+    width: 80%;
+    margin: auto;
+}
+p {
+    font-size: 20px; 
+    margin-bottom: -45px;
+    margin-top: -20px;
+}
+form {
+    font-family: 'Meera Inimai', sans-serif;
+    font-size: 20px; 
+    color:black;
+    font-weight: bold;
+}
+.button {
+    width: 200px;
+    font-size: 25px;
+    padding: 10px 0px 1px 0px;
+    color: black;
+    border: solid 5px;
+    background:  rgb(186, 140, 227);
+    font-family: 'Meera Inimai', sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+#quiz {
+    visibility: hidden;
+}
+
+#answers {
+    color: white;
+    font-size: 30px;
+}
